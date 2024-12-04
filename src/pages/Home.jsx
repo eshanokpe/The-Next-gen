@@ -29,7 +29,7 @@ function Home() {
     
           </div>
         </div>
-      </div>
+      </div> 
     
       <div  style={{backgroundColor:'#F3F3F5'}}>
           <HowitworkContent/>
